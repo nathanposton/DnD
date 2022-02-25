@@ -1,0 +1,195 @@
+Oath of the Breathless
+
+Description: ------------------------------------------------------------------
+
+The Oath of the Breathless is known to few, and is usually a calling from
+birth. When deemed ready, paladins are presented with the path by cold servants
+of truth: djinn of air and ice, the immortal dragon Bahamut, or even the great
+Torm himself.
+
+Paladins of this order oppose deceit above all else, and do so violently.
+In token of their willingness to never again utter a lie, they forsake breath
+itself, becoming one of the Breathless. In place of vocal exhalations, they
+begin to exude the icy aura of Bahamut himself which grows with the strength of
+their conviction. By the force of their will, they use the emanation
+to oppress the deceitful with icy fervor.
+
+Tenets of Devotion: -----------------------------------------------------------
+
+Honesty:
+    - To lie explicitly is unthinkable, perhaps impossible.
+    - You vow truth above all else, as clear cold and hard as possible, in your
+      every thought.
+    - You vow to enforce such in the world around you.
+
+Justice:
+    - Uphold the law and enforce it among others, as doing so makes one an
+      honest soul.
+
+Compassion:
+    - The oppressed are driven to dishonesty by desperation. Alleviate their
+      burdens so they too may strive for truth.
+
+Special Features (3rd Level): -------------------------------------------------
+
+- If Dragonborn, your breath weapon is replaced with an aura blast. The
+  mechanics of this ability are the same as the breath weapon being replaced,
+  except that any damage applied becomes either air or ice elemental type.
+- The verbal component of all spells is no longer necessary for you.
+- You can (and do) hold your breath indefinitely.
+- Any effect based on breathing has no effect on you (negative or positive).
+- Once per long rest, you can perform the levitate spell on yourself only.
+
+Channel Divinity: -------------------------------------------------------------
+
+- Breathless Rebuke: As a bonus action, steal the breath of any number of
+  creatures within 120ft until your next turn. These creatures become silenced,
+  and must perform concentration saving throw if applicable.
+- Armed with Truth: As a bonus action, choose a weapon. For 1 minute, add your
+  charisma modifier to attack rolls made with that weapon. Add 1d6 ice or air
+  damage to successful attacks multiplied by the highest level unused spell slot
+  available (minimum 1). That spell slot is only used to determine the
+  multiplier, it is not expended.
+
+Oath Features: ----------------------------------------------------------------
+
+7th Level:
+Oppressive Truth:
+- When making a charisma check you make against a
+  creature, add the deception proficiency (not including Charisma modifier) of
+  that creature to your roll. Alternatively, a creature making a Charisma check
+  or saving throw against you subtracts their deception proficiency (but not
+  general Charisma) from their roll. This only applies once (i.e. should a spell
+  be cast that uses a charisma modifier to determine DC, while also requiring a
+  charisma saving throw, this feature can be applied either to the saving throw
+  or to the DC but not to both, and must be applied prior to the DM's
+  announcement of their roll result).
+- Additionally, you and friendly creatures within 10 feet of you cannot be
+  charmed and have advantage against all illusion magic. Upon a critical success
+  save against an illusion spell, you may choose to permanently silence the
+  caster if within sight or hearing range. The radius for this
+  increases to 30ft at the 18th level.
+Cognitive Dissonance:
+- If you or your party intentionally use illusion or enchantment spells with
+  the 'social' tag (except Zone of Truth) by casting spell or by using a
+  potion or a scroll, your Charisma immediately drops to 10 until you complete
+  a long rest.
+
+15th Level:
+
+Brutal Honesty:
+- Starting at 15th level, you can manifest your unyielding conviction to
+  physically dominate your foes with air and wind. As a bonus action, you can
+  grapple and shove at a range of up to 15 feet. Add your Charisma modifier to
+  your DC for these actions.
+- Additionally, you gain resistance to cold and air damage. Anytime you have
+  resistance to either or both elements from another source, you become immune
+  to the resisted element or elements. Anytime you have immunity to either or
+  both elements from another source, as a reaction you can redirect the attack
+  elsewhere. In this case, you must make your own rolls (such as attack rolls)
+  and calculate DC's using your own attributes.
+Immediate retribution:
+- Starting at 15th level, deliberate deception temporarily strips you of your
+  immunity to suffocation. Because you no longer breath, this  results in
+  immediate unconsciousness. Immunity returns with the loss of consciousness.
+
+20th Level:
+
+The Accuser:
+- At 20th level, as an action you can manifest your true nature as a harbinger of
+  Torm's just condemnation. You take on a special form, appearing as an ice
+  dragon of the same size as your current stature. You can move as an ice dragon
+  (such as fly with the same speed) and gain temporary hit points equal to your
+  current hit points. Additionally, you gain truesight. Finally, you emanate an
+  aura of frigid shame within a 30 foot radius. Enemies within your aura must
+  succeed on a constitution saving throw or be racked with guilt. Celestials,
+  fiends, and constructs are immune to guilt. Guilty enemies cannot move or
+  breath, and have disadvantage on all attacks. You retain your form for 1 hour,
+  until you dismiss the form, or until you lose your temporary hit points. Once
+  you use this feature, you cannot use it again until you complete a long rest.
+
+Oath Spells (Charisma-based): -------------------------------------------------
+
+NOTE: Spell slots based on standard paladin spell slot assignment.
+
+Cantrips:
+- Message
+Plus (choose 2):
+- Guidance
+- Chill Touch (ice damage)
+- Gust
+- Mage Hand
+- Ray of Frost
+- Frostbite
+- Word of Radiance
+
+3rd Level (Choose 2):
+- Detect Magic
+Plus (Choose 2):
+- Arms of Hadar (ice tendrils/damage)
+- Armor of Agath
+- Frost Fingers
+- Bane
+- Bless
+- Command
+- Divind Favor
+- Ice Knife
+- Shield of Faith
+
+5th Level:
+- Zone of Truth
+Plus (Choose 2):
+- Warding Wind
+- Silence
+- Augury
+- Detect Thoughts
+- Find traps
+- Gust of Wind
+- Lesser Restoration
+- Misty Step
+- Locate Object
+- Rime's Binding Ice
+- See Invisibility
+- Silence
+
+9th
+- Dispel Magic
+Plus (Choose 2):
+- Wind Wall
+- Haste
+- Beacon of Hope
+- Aura of Vitality
+- Blink
+- Elemental Weapon (cold or thunder only)
+- Fly
+- Gaseous Form
+- Intellect Fortress
+- Mass Healing Word
+- Motivational Speech
+- Slow
+
+13th
+- Locate Creature
+Plus (Choose 2):
+- Aura of Life
+- Aura of Purity
+- Guardian of Faith
+- Ice Storm
+- Stone Skin (actually iceskin aesthetically)
+- Freedom of Movement
+- Summon elemental (Air only)
+
+17th:
+- Commune
+Plus (Choose 2):
+- Cone of Cold
+- Conjure Elemental (Air only)
+- Control Winds
+- Far Step
+- Greater Restoration
+- Holy Weapon
+- Legend Lore
+- Maelstrom
+- Scrying
+- Steel Wind Strike
+- Telekinesis
